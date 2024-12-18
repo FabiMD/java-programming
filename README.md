@@ -16,7 +16,7 @@ If you'd help us making the correction, you can open a pull request with your pr
 
 Below are instructions on how to setup a development environment on your own machine. These instructions are only relevant to you if you wish to change how the course's website works or looks like. If you don't know how to program or only wish to contribute to the content of the course, please skip this section.
 
-Requirements: recent Node / for me it runs only with node 16
+Requirements: recent Node
 
 ```sh
 npm ci  --legacy-peer-deps     
