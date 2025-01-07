@@ -21,10 +21,12 @@ Requirements: recent Node
 ```sh
 npm ci  --legacy-peer-deps     
 npm run develop
-```
-for faster serving:
+
+for faster serving after build
 open folder public 
 python3 -m http.server 8000
+
+```
 
 
 Content is in the `data` folder.
